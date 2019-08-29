@@ -1,1 +1,1 @@
-# Lomake
+In this project the goal was to develop a front-end only DC/TMD Clinical Examination Form web application. The project was modeled after an already existing clinical form (virsu medixine) and an official DC/TMD Examination form (https://app.box.com/s/igdyj7ezl94zwqvte9yus5f482dwek07). Project was made by using html, javascript coding and limesurvey and jotform tools.
